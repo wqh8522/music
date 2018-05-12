@@ -9,6 +9,7 @@ import java.util.Map;
 
 public interface ArtistService {
 
+
     /**
      * 得到所有歌手
      * @return
