@@ -24,6 +24,7 @@ public interface ArtistService {
      */
     Map<String, List<Artist>> getAllArtistFromFile(InputStream paramInputStream)throws IOException;
 
+
     /**
      * 得到热门歌手信息
      * @return
